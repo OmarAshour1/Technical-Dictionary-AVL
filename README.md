@@ -1,1 +1,0 @@
-# Technical-Dictionary-AVL
